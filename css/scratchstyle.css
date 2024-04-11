@@ -1,0 +1,60 @@
+body {
+    font-family:fantasy;
+    font-size: 15px;
+    color: rgb(26, 25, 25);
+    background-color: rgb(236, 236, 180);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 100;
+}
+a  {
+   color: rgb(158, 75, 235); 
+   text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold
+    font-size: 18px; */
+}
+a:visited {
+    color: blue
+}
+.resumelistheading {
+    font-weight:bold;
+}
+.underline  {text-decoration: underline;}
+.bold  {font-weight: bold;}
+.justify{text-align: justify}
+
+.homebg {background-image: url("../images/beach.jpg");
+         background-position: top right;
+         /* background-repeat: ; */
+    }
+
+.box1  {
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+.box2  {
+    padding: 5px;
+}
+
+.box3  {
+    margin: 50px;
+
+}
+
+.box1 {
+    border: 1px solid black; /* Example border */
+    padding: 10px; /* Example padding */
+    border-color: gray;
+
+    border: 1px; red
+}
+
+.bold {
+    font-weight: bold;
+}
